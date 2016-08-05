@@ -1,27 +1,31 @@
+.background {
+  background-color: black;
+}
+
+
 .size {
   width: 500px;
   height: 300px;
-  padding-top: 50px;
-    padding-right: 30px;
-    padding-bottom: 50px;
-    padding-left: 80px;
-    float: center
+  border: 2px solid orange;
+  float: left;
 }
 
 .h2 {
-  text-align: left;
+  text-align: center;
 }
 
 .boxp1 {
-  border: 2px solid green;
-  padding: 6px;
-
+  padding-top: 50px;
+  padding-right: 200px;
+  padding-bottom: 50px;
+  padding-left: 5px;
+  text-align: left;
+  float: left;
 }
 
-.boxp2 {
-
+.ul {
+  margin: 10px ;
+  padding: 18px;
+  float: right;
 }
-
-.mainbox {
-  border: 4px blue;
-}
+/*border: 2px solid white-->*/
