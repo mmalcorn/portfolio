@@ -24,7 +24,7 @@ _{If you run into any issues or have any questions, feel free to contact me at e
 
 ##Technologies Used
 
-_{}_
+_{HTML and CSS}_
 
 ### License
 

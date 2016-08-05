@@ -2,12 +2,11 @@
   background-color: black;
 }
 
-
-.size {
+.size.img-rounded {
+  margin: 100px;
   width: 500px;
   height: 300px;
   border: 2px solid orange;
-  float: left;
 }
 
 .h2 {
@@ -27,5 +26,19 @@
   margin: 10px ;
   padding: 18px;
   float: right;
+  border: 2px solid white;
+  color: orange;
+}
+
+.size1 {
+  float: center;
+  margin: 100px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right; 10px;
+  width: 800px;
+  height: 600px;
+
 }
 /*border: 2px solid white-->*/
